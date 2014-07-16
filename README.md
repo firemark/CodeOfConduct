@@ -9,7 +9,7 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
 
 1. __Standardy ogólne__
 
-    Członkowie stowarzyszenia poszerzają swoją wiedzę i umiejętności dla własnego rozwoju oraz społeczeństwa informacyjnego. Członkowie chcą swoją wiedzę wykorzystywać przedewszystkim by tworzyć społeczność hackerską która jest wierna "etosowi hakerskiemu" -> http://en.wikipedia.org/wiki/Hacker_ethic
+	Członkowie stowarzyszenia muszą unikać wszystkiego, co grozi uwikłaniem stowarzyszenia lub jego członków w działalność sprzeczną z prawem. Wykorzystywanie przez któregokolwiek z członków majątku stowarzyszenia do jakichkolwiek celów sprzecznych z prawem jest surowo zabronione.
     
 2. __Kłótnie i konflikty__
 
