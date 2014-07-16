@@ -26,6 +26,7 @@ Każde naruszenie zasad i zwyczajów zapisanych w „Kodeksie postępowania Ha
     
 
 5. __Zasady dotyczące reprezentowania stowarzyszenia__
+
     !do zrobienia!
 
 
